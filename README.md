@@ -7,8 +7,6 @@
 
 - 👨‍💻 All of my projects are available at [burakturkis.com](burakturkis.com)
 
-- 📝 I regularly write articles on [burakturkis.com/blog](burakturkis.com/blog)
-
 - 💬 Ask me about **Know anything.**
 
 - 📫 How to reach me **ugur@burakturkis.com**
